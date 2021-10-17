@@ -1,3 +1,3 @@
 # Python-auto-test
 Selenium on Python
-Это мой не первый комит
+My first commit from PC to git
